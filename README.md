@@ -1,7 +1,7 @@
 # Login Form
 a relatively simple login form that was created by HTML and CSS
 
-## Images From Music Player
+## Image From Login Form
 ![login Form](photo.png)
 
 
