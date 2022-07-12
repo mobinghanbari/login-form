@@ -1,0 +1,37 @@
+body {
+    background-color: #263340;
+    margin: 50px 0;
+}
+
+.login-form {
+    width: 400px;
+    margin: auto;
+    text-align: center;
+    border-radius: 30px;
+    padding: 100px 5px;
+    background-color: #181e24;
+    color: white;
+    font-family: 'Nunito', sans-serif;
+}
+
+.login-form .my-input {
+    width: 300px;
+    margin: 10px 0;
+    border-bottom: 2px solid #bdb7bc;
+    border-radius: 20px;
+    padding: 15px 10px;
+    background-color: #181e24;
+    color: #bbc0c4;
+}
+
+
+.my-btn {
+    background-color: #3fe893;
+    margin-top: 10px;
+    border-radius: 20px;
+    padding: 15px 140px;
+}
+
+.my-btn:hover {
+    background-color: #359659;
+}
